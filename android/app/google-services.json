@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143413003026",
+    "firebase_url": "https://firestore-task-blueaccent.firebaseio.com",
+    "project_id": "firestore-task-blueaccent",
+    "storage_bucket": "firestore-task-blueaccent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143413003026:android:b76b3c8a9ce1658d8ca9cb",
+        "android_client_info": {
+          "package_name": "com.namanjain300.firestore_task_blueaccent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143413003026-uhksugo2jmug8op0fj6cvrhm4vkmjrat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvcmgZtLyS23qNdVq6wViC6HmGjRIkkvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143413003026-uhksugo2jmug8op0fj6cvrhm4vkmjrat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
